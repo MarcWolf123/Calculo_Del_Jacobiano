@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1513804805 source:c:\users\administrador\desktop\programas codeblocks\nuevo_metodo_finito\main.cpp
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<opencv2/opencv.hpp>
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+
+1515272161 source:c:\users\administrador\documents\programas codeblocks\nuevo_metodo_finito\main.cpp
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<opencv2/opencv.hpp>
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+
